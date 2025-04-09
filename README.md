@@ -27,3 +27,10 @@ To create a Crew , you need to define Agent ,Task and following Parameters:
 4. debug: If True, print the debug logs.(default is False).
 
     [More Details about Crew](https://docs.crewai.com/concepts/crew).
+
+
+
+   OPENAI_API_KEY=sk-proj-YEkAMVO7S0iDYTE2yuFDT3BlbkFJguKaTsEjnK8TH9UTRflL
+
+
+   OPENAI_ORGANIZATION_ID = 'OPENAI_ORGANIZATION_ID'
