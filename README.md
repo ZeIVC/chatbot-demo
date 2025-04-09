@@ -34,3 +34,6 @@ To create a Crew , you need to define Agent ,Task and following Parameters:
 
 
    OPENAI_ORGANIZATION_ID = 'OPENAI_ORGANIZATION_ID'
+
+DEEPSEEK_API_KEY=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
+OPENROUTER_API_KEY=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
